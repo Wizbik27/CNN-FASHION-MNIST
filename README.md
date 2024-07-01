@@ -46,7 +46,6 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/mnist-cnn.git
 cd mnist-cnn
 Install the required packages:
 
